@@ -1,0 +1,13 @@
+{
+  "name": "dev",
+  "image": "starknetfoundation/starknet-dev:2.8.0",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "StarkWare.cairo1",
+        "esbenp.prettier-vscode",
+        "ms-azuretools.vscode-docker"
+      ]
+    }
+  }
+}
